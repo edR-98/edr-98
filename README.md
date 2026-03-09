@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🙋 -  I'm Eduardo Oliveira Machado.<br><br>🇧🇷 - Brazil, São Paulo, São Carlos<br><br>👶 - Born In April, 1998 (26 years)<br><br>🧑‍💻- Currently learning the foundations and challenges of being a developer.</p>
+<p align="center">🙋 -  I'm Eduardo Oliveira Machado.<br><br>🇧🇷 - Brazil, São Paulo, São Carlos<br><br>👶 - Born In April, 1998 <br><br>
 
 ###
 
