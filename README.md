@@ -83,13 +83,18 @@
 
 </div>
 
-
-<h2 align="center"> 📫 Contact | Contato </h2>
- <p align="center">
-   <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:eduardo.mcd@proton.me" />
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edu-oliveira-machado/" />
-   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edR-98" />
- </p>
+<h2 align="center">📫 Contact | Contato</h2>
+<p align="center">
+  <a href="mailto:eduardo.mcd@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/edu-oliveira-machado/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/edR-98">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
