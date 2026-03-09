@@ -10,7 +10,6 @@
 
 <p align="center">📍 São Carlos, São Paulo — BR </p>
 
-
 <h2 align="center"> 🛠️ Technical Skills | Habilidades Técnicas </h2>
 
 <p align="center"> <strong>Operating Systems | Sistemas Operacionais </p> </strong>
@@ -59,16 +58,21 @@
 
 ---
 
-## 📂 Portfolio & Projects | Portfólio & Projetos
-
-| Project / Projeto | Description / Descrição |
-| --- | --- |
-| [🗂️ TI (em progresso) ](https://github.com/edR-98/TI/blob/main/troubleshooting.md) | A self-made documentation on progress regarding all related to IT. / Uma documentação própria em progresso relacionado a tudo sobre TI. |
-| 🌐 Network Labs (Em breve) | Cisco Packet Tracer network topologies / Topologias de rede no Cisco Packet Tracer |
+<h2 align="center"> 📂 Portfolio & Projects | Portfólio & Projetos </h2>
+<div align="center">
+ 
+  | Project / Projeto | Description / Descrição |
+  | --- | --- |
+  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI/blob/main/troubleshooting.md) | A self-made documentation on progress regarding all related to IT. / Uma documentação própria em progresso relacionado a tudo sobre TI. |
+  | 🌐 Network Labs (Em breve) | Cisco Packet Tracer network topologies / Topologias de rede no Cisco Packet Tracer |
+  
+</div>
 
 ---
 
-## 📜 Certifications & Courses | Certificações & Cursos
+<h2 align="center"> 📜 Certifications & Courses | Certificações & Cursos </h2>
+
+<div align="center">
 
 | Status | Certification / Certificação |
 | --- | --- |
@@ -77,12 +81,16 @@
 | 🔧 Hands-on / Prático | Cisco Packet Tracer — Cisco NetAcad |
 | ☁️ Hands-on / Prático | AWS Free Tier / Azure for Students |
 
-## 📫 Contact | Contato
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:eduardo.mcd@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edu-oliveira-machado/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edR-98)
+</div>
 
+
+<h2 align="center"> 📫 Contact | Contato </h2>
+ <p align="center">
+   <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:eduardo.mcd@proton.me" />
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edu-oliveira-machado/" />
+   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edR-98" />
+ </p>
 
 ---
 
-*"Documente tudo. A próxima pessoa que ler pode ser você."*
+<p align="center"> <i> "Documente tudo. A próxima pessoa que ler pode ser você." </i> </p>
