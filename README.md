@@ -59,14 +59,14 @@
 ---
 
 <h2 align="center"> 📂 Portfolio & Projects | Portfólio & Projetos </h2>
-<div align="center">
+ <div align="center">
  
   | Project / Projeto | Description / Descrição |
   | --- | --- |
-  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI/blob/main/troubleshooting.md) | A self-made documentation on progress regarding all related to IT. / Uma documentação própria em progresso relacionado a tudo sobre TI. |
+  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | A self-made documentation on progress regarding all related to IT. / Uma documentação própria em progresso relacionado a tudo sobre TI. |
   | 🌐 Network Labs (Em breve) | Cisco Packet Tracer network topologies / Topologias de rede no Cisco Packet Tracer |
   
-</div>
+ </div>
 
 ---
 
