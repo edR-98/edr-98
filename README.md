@@ -1,59 +1,81 @@
-<h1 align="center">About Me:</h1>
+# Hi, I'm Eduardo 👋 | Olá, sou o Eduardo 👋
 
-###
+🖥️ **IT Technician | Help Desk | Networking & Infrastructure Support**  
+🔧 **Técnico de TI | Suporte | Redes & Infraestrutura**
 
-<p align="center">🙋 -  I'm Eduardo Oliveira Machado.<br><br>🇧🇷 - Brazil, São Paulo, São Carlos<br><br>👶 - Born In April, 1998 <br><br>
+> **Passionate about solving technical problems, documenting solutions, and keeping systems running smoothly.**  
+> **Apaixonado por resolver problemas técnicos, documentar soluções e manter sistemas funcionando.**
 
-###
+📍 São Carlos, São Paulo — BR
 
-<h1 align="center">Techs I'm Learning:</h1>
+## 📫 Contact | Contato
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edu-oliveira-machado/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edR-98)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-</div>
 
-###
+## 🛠️ Technical Skills | Habilidades Técnicas
 
-<h1 align="center">Check My Social Media or Contact Me:</h1>
+**Operating Systems | Sistemas Operacionais**
 
-###
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/edu-oliveira-machado/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:eduardo.mcd@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="37" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://wa.me/5516992699120" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="37" alt="whatsapp logo"  />
-  </a>
-</div>
+**Networking | Redes**
 
-###
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-gray?style=flat)
+![DNS](https://img.shields.io/badge/DNS-gray?style=flat)
+![DHCP](https://img.shields.io/badge/DHCP-gray?style=flat)
+![VPN](https://img.shields.io/badge/VPN-4CAF50?style=flat)
+![Firewall](https://img.shields.io/badge/Firewall-E53935?style=flat)
 
-<h1 align="center">Stats Overview:</h1>
+**Support & Infrastructure | Suporte & Infraestrutura**
 
-###
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Help Desk](https://img.shields.io/badge/Help_Desk-FF6B35?style=flat)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-607D8B?style=flat)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edr-98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=edr-98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="145" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=edr-98&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=edr-98&theme=dracula&column=-1&row=1&margin-w=7&margin-h=6&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edr-98&radius=16&theme=dracula&area=true&order=5&custom_title=Contributions%20Graph" height="290" alt="activity-graph graph"  />
-</div>
+**Security | Segurança**
 
-###
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-B71C1C?style=flat)
+![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-B71C1C?style=flat)
+![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-2E7D32?style=flat)
+
+
+---
+
+## 📂 Portfolio & Projects | Portfólio & Projetos
+
+| Project / Projeto | Description / Descrição |
+| --- | --- |
+| [🗂️ TI ](https://github.com/edR-98) | A self-made documentation on progress regarding all related to IT. / Uma documentação própria em progresso relacionado a tudo sobre TI. |
+| 🌐 Network Labs (Em breve) | Cisco Packet Tracer network topologies / Topologias de rede no Cisco Packet Tracer |
+
+---
+
+## 📜 Certifications & Courses | Certificações & Cursos
+
+| Status | Certification / Certificação |
+| --- | --- |
+| 📚 Hands-on / Prático | IT Essentials - Cisco |
+| 📚 Hands-on / Prático | Técnico em Informática - Senac São Carlos |
+| 🔧 Hands-on / Prático | Cisco Packet Tracer — Cisco NetAcad |
+| ☁️ Hands-on / Prático | AWS Free Tier / Azure for Students |
+
+
+---
+
+## 📫 Contact | Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edu-oliveira-machado/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edR-98)
+
+
+---
+
+* "Documente tudo. A próxima pessoa que ler pode ser você."*
