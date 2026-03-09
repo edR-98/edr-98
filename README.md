@@ -5,8 +5,8 @@
 <p align="center"> <strong>🔧 Técnico em TI | Suporte | Redes & Infraestrutura </p> </strong>
 
 
-> **Passionate about solving technical problems, documenting solutions, and keeping systems running smoothly.**  
-> **Apaixonado por resolver problemas técnicos, documentar soluções e manter sistemas funcionando.**
+> <p align="center"> <strong> Passionate about solving technical problems, documenting solutions, and keeping systems running smoothly. </strong> </p>  
+> <p align="center"> <strong> Apaixonado por resolver problemas técnicos, documentar soluções e manter sistemas funcionando. </strong> </p> 
 
 <p align="center">📍 São Carlos, São Paulo — BR </p>
 
