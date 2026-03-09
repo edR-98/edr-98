@@ -1,52 +1,61 @@
-# Hi, I'm Eduardo 👋 | Olá, sou o Eduardo 👋
+<h1 align="center"> Hi, I'm Eduardo 👋 | Olá, sou o Eduardo 👋 </h1>
 
-🖥️ **IT Technician | Help Desk | Networking & Infrastructure Support**  
-🔧 **Técnico em TI | Suporte | Redes & Infraestrutura**
+ 
+<p align="center"> <strong>🖥️ IT Technician | Help Desk | Networking & Infrastructure Support </p> </strong>  
+<p align="center"> <strong>🔧 Técnico em TI | Suporte | Redes & Infraestrutura </p> </strong>
+
 
 > **Passionate about solving technical problems, documenting solutions, and keeping systems running smoothly.**  
 > **Apaixonado por resolver problemas técnicos, documentar soluções e manter sistemas funcionando.**
 
-📍 São Carlos, São Paulo — BR
+<p align="center">📍 São Carlos, São Paulo — BR </p>
 
 
-## 🛠️ Technical Skills | Habilidades Técnicas
+<h2 align="center"> 🛠️ Technical Skills | Habilidades Técnicas </h2>
 
-**Operating Systems | Sistemas Operacionais**
+<p align="center"> <strong>Operating Systems | Sistemas Operacionais </p> </strong>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-6D4AFF?style=flat&logo=cachyos&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-6D4AFF?style=flat&logo=cachyos&logoColor=white" />
+</p>
 
-**Networking | Redes**
+<p align="center"> <strong> Networking | Redes </strong> </p>
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-gray?style=flat)
-![DNS](https://img.shields.io/badge/DNS-gray?style=flat)
-![DHCP](https://img.shields.io/badge/DHCP-gray?style=flat)
-![VLAN](https://img.shields.io/badge/VLAN-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![ACL](https://img.shields.io/badge/ACL-E53935?style=flat&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-4CAF50?style=flat)
-![Firewall](https://img.shields.io/badge/Firewall-E53935?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-gray?style=flat" />
+  <img src="https://img.shields.io/badge/DNS-gray?style=flat" />
+  <img src="https://img.shields.io/badge/DHCP-gray?style=flat" />
+  <img src="https://img.shields.io/badge/VLAN-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACL-E53935?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSPF-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN-4CAF50?style=flat" />
+  <img src="https://img.shields.io/badge/Firewall-E53935?style=flat" />
+</p>
 
-**Support & Infrastructure | Suporte & Infraestrutura**
+<p align="center"> <strong> Support & Infrastructure | Suporte & Infraestrutura </strong> </p>
 
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Help Desk](https://img.shields.io/badge/Help_Desk-FF6B35?style=flat)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-607D8B?style=flat)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Help_Desk-FF6B35?style=flat" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Troubleshooting-607D8B?style=flat" />
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white" />
+</p>
 
-**Security | Segurança**
+<p align="center"> <strong> Security | Segurança </strong> </p>
 
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-B71C1C?style=flat)
-![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-B71C1C?style=flat)
-![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-2E7D32?style=flat)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Malware_Analysis-B71C1C?style=flat" />
+  <img src="https://img.shields.io/badge/Endpoint_Security-B71C1C?style=flat" />
+  <img src="https://img.shields.io/badge/Backup_%26_Recovery-2E7D32?style=flat" />
+</p>
 
 ---
 
