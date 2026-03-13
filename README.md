@@ -1,8 +1,9 @@
-<h1 align="center"> Hi, I'm Eduardo 👋 | Olá, sou o Eduardo 👋 </h1>
+<h1 align="center"> Olá, sou o Eduardo 👋 | Hi, I'm Eduardo 👋 </h1>
 
- 
-<p align="center"> <strong>🖥️ IT Technician | Help Desk | Networking & Infrastructure Support </p> </strong>  
+
 <p align="center"> <strong>🔧 Técnico em TI | Suporte | Redes & Infraestrutura </p> </strong>
+<p align="center"> <strong>🖥️ IT Technician | Support | Networking & Infrastructure Support </p> </strong>  
+
 
 
 > <p align="center"> <strong> Passionate about solving technical problems, documenting solutions, and keeping systems running smoothly. </strong> </p>  
@@ -10,9 +11,9 @@
 
 <p align="center">📍 São Carlos, São Paulo — BR </p>
 
-<h2 align="center"> 🛠️ Technical Skills | Habilidades Técnicas </h2>
+<h2 align="center"> 🛠️ Habilidades Técnicas | Technical Skills </h2>
 
-<p align="center"> <strong>Operating Systems | Sistemas Operacionais </p> </strong>
+<p align="center"> <strong> Sistemas Operacionais | Operating Systems </p> </strong>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/CachyOS-6D4AFF?style=flat&logo=cachyos&logoColor=white" />
 </p>
 
-<p align="center"> <strong> Networking | Redes </strong> </p>
+<p align="center"> <strong> Redes | Networking </strong> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/Firewall-E53935?style=flat" />
 </p>
 
-<p align="center"> <strong> Support & Infrastructure | Suporte & Infraestrutura </strong> </p>
+<p align="center"> <strong> Suporte & Infraestrutura | Support & Infrastructure </strong> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
-<p align="center"> <strong> Security | Segurança </strong> </p>
+<p align="center"> <strong> Segurança | Security  </strong> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Malware_Analysis-B71C1C?style=flat" />
@@ -58,23 +59,23 @@
 
 ---
 
-<h2 align="center"> 📂 Portfolio & Projects | Portfólio & Projetos </h2>
+<h2 align="center"> 📂 Portfólio & Projetos | Portfolio & Projects </h2>
  <div align="center">
  
-  | Project / Projeto | Description / Descrição |
+  | Projeto / Project | Descrição / Description |
   | --- | --- |
   | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI. / A self-made documentation on progress regarding all related to IT. |
-  | 🌐 Network Labs (Em breve) | Topologias de rede no Cisco Packet Tracer / Cisco Packet Tracer network topologies |
+  | 🌐 Redes / Network Labs (Em breve) | Topologias de rede no Cisco Packet Tracer / Cisco Packet Tracer network topologies |
   
  </div>
 
 ---
 
-<h2 align="center"> 📜 Certifications & Courses | Certificações & Cursos </h2>
+<h2 align="center"> 📜 Certificações & Cursos / Certifications & Courses  </h2>
 
 <div align="center">
 
-| Status | Certification / Certificação |
+| Status | Certificação / Certification |
 | --- | --- |
 | 📚 Hands-on / Prático | IT Essentials - Cisco |
 | 📚 Hands-on / Prático | Técnico em Informática - Senac São Carlos |
@@ -83,7 +84,7 @@
 
 </div>
 
-<h2 align="center">📫 Contact | Contato</h2>
+<h2 align="center">📫 Contato | Contact</h2>
 <p align="center">
   <a href="mailto:eduardo.mcd@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white" />
