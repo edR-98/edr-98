@@ -78,7 +78,7 @@
 | Status | Certificação / Certification |
 | --- | --- |
 | 📚 Hands-on / Prático | IT Essentials - Cisco |
-| 📚 Hands-on / Prático | Técnico em Informática - Senac São Carlos |
+| 📚 Hands-on / Prático | Técnico em Informática - Senac São Carlos (em andamento) |
 | 🔧 Hands-on / Prático | Cisco Packet Tracer — Cisco NetAcad |
 | ☁️ Hands-on / Prático | AWS Free Tier / Azure for Students |
 
@@ -99,4 +99,4 @@
 
 ---
 
-<p align="center"> <i> "Documente tudo. A próxima pessoa que ler pode ser você." </i> </p>
+
