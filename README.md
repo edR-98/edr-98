@@ -63,8 +63,8 @@
  
   | Project / Projeto | Description / Descrição |
   | --- | --- |
-  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | A self-made documentation on progress regarding all related to IT. / Uma documentação própria em progresso relacionado a tudo sobre TI. |
-  | 🌐 Network Labs (Em breve) | Cisco Packet Tracer network topologies / Topologias de rede no Cisco Packet Tracer |
+  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI. / A self-made documentation on progress regarding all related to IT. |
+  | 🌐 Network Labs (Em breve) | Topologias de rede no Cisco Packet Tracer / Cisco Packet Tracer network topologies |
   
  </div>
 
