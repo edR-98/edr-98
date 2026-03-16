@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Troubleshooting-607D8B?style=flat" />
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
 <p align="center"> <strong> Segurança | Security  </strong> </p>
@@ -65,7 +66,7 @@
   | Projeto / Project | Descrição / Description |
   | --- | --- |
   | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI. / A self-made documentation on progress regarding all related to IT. |
-  | 🌐 Redes / Network Labs (Em breve) | Topologias de rede no Cisco Packet Tracer / Cisco Packet Tracer network topologies |
+  | 🌐 [Redes / Network Labs](https://github.com/edR-98/TI/tree/main/redes) | Projetos e documentações sobre redes / Projects and docs about networking. |
   
  </div>
 
@@ -75,12 +76,12 @@
 
 <div align="center">
 
-| Status | Certificação / Certification |
-| --- | --- |
-| 📚 Hands-on / Prático | IT Essentials - Cisco |
-| 📚 Hands-on / Prático | Técnico em Informática - Senac São Carlos (em andamento) |
-| 🔧 Hands-on / Prático | Cisco Packet Tracer — Cisco NetAcad |
-| ☁️ Hands-on / Prático | AWS Free Tier / Azure for Students |
+| Certificação / Certification |
+| :---: |
+| 📚 IT Essentials - Cisco |
+| 💻 Técnico em Informática - Senac São Carlos (em andamento) |
+| 🌐 Cisco Packet Tracer — Cisco NetAcad |
+
 
 </div>
 
@@ -98,5 +99,10 @@
 </p>
 
 ---
+<h2 align="center"> 📖 Conteúdo Disponível | Available Content </p>
 
+  <h3 align="center"> 
+    <a href="./troubleshooting/troubleshooting.md"> 🪛 Troubleshooting - Base de Conhecimento </a> <br>
+    <br>
+    <a href="./redes/hotel-california-project/hotel-california-project.md"> 🌐 Hotel Califórnia - Projeto de redes </a>
 
