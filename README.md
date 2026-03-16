@@ -102,7 +102,7 @@
 <h2 align="center"> 📖 Conteúdo Disponível | Available Content </p>
 
   <h3 align="center"> 
-    <a href="./TI/troubleshooting/troubleshooting.md"> 🪛 Troubleshooting - Base de Conhecimento </a> <br>
+    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md"> 🪛 Troubleshooting - Base de Conhecimento </a> <br>
     <br>
-    <a href="./TI/redes/hotel-california-project/hotel-california-project.md"> 🌐 Hotel Califórnia - Projeto de redes </a>
+    <a href="https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md"> 🌐 Hotel Califórnia - Projeto de redes </a>
 
