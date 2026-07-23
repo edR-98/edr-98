@@ -62,7 +62,20 @@
  </div>
 
 ---
+<h2 align="center"> 📖 Conteúdo Disponível </h2>
 
+ <h3 align="center"> 
+    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md"> 🛠️ Troubleshooting - Minha Base de Conhecimento & Documentação; </a>
+
+  <h3 align="center"> 
+    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/OSI-troubleshooting.md"> 🪛 Troubleshooting - Solução de Problemas com Raciocínio no Modelo OSI; </a>
+
+  <h3 align="center"> 
+    <a href="https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md"> 🌐 Redes - Projeto de Infraestrutura de Rede - Hotel Califórnia</a>
+
+
+
+---
 <h2 align="center"> 📜 Certificações & Cursos </h2>
 
 <div align="center">
@@ -76,27 +89,13 @@
 
 <h2 align="center">📫 Contato</h2>
 <p align="center">
-  <a href="mailto:eduardo.mcd@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/edu-oliveira-machado/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/edR-98">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    ❗ Não utilizo redes sociais, contatos apenas pelo email a seguir:
+    ✉️ <em>eduardo.mcd@proton.me</em>
+
+    
   </a>
 </p>
 
 ---
-<h2 align="center"> 📖 Conteúdo Disponível </h2>
-
- <h3 align="center"> 
-    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md"> 🛠️ Troubleshooting - Minha Base de Conhecimento & Documentação; </a>
-
-  <h3 align="center"> 
-    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/OSI-troubleshooting.md"> 🪛 Troubleshooting - Solução de Problemas com Raciocínio no Modelo OSI; </a>
-
-  <h3 align="center"> 
-    <a href="https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md"> 🌐 Redes - Projeto de Infraestrutura de Rede - Hotel Califórnia</a>
 
 
