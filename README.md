@@ -1,19 +1,11 @@
-<h1 align="center"> Olá, sou o Eduardo 👋 | Hi, I'm Eduardo 👋 </h1>
+<h1 align="center"> Olá, sou o Eduardo! 👋</h1>
+    
+<p align="center">  Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluções e ajudar a manter sistemas funcionando. Possuo formação técnica em informática pelo Senac. Busco compreender, testar e praticar novos conhecimentos por conta própria com viés em suporte ou infraestrutura. </p> 
 
 
-<p align="center"> <strong>🔧 Técnico em TI | Suporte | Redes & Infraestrutura </p> </strong>
-<p align="center"> <strong>🖥️ IT Technician | Support | Networking & Infrastructure Support </p> </strong>  
+<h2 align="center"> 🛠️ Habilidades Técnicas </h2>
 
-
-
-> <p align="center"> <strong> Passionate about solving technical problems, documenting solutions, and keeping systems running smoothly. </strong> </p>  
-> <p align="center"> <strong> Apaixonado por resolver problemas técnicos, documentar soluções e manter sistemas funcionando. </strong> </p> 
-
-<p align="center">📍 São Carlos, São Paulo — BR </p>
-
-<h2 align="center"> 🛠️ Habilidades Técnicas | Technical Skills </h2>
-
-<p align="center"> <strong> Sistemas Operacionais | Operating Systems </p> </strong>
+<p align="center"> <strong> Sistemas Operacionais </p> </strong>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
@@ -24,7 +16,7 @@
   <img src="https://img.shields.io/badge/CachyOS-6D4AFF?style=flat&logo=cachyos&logoColor=white" />
 </p>
 
-<p align="center"> <strong> Redes | Networking </strong> </p>
+<p align="center"> <strong> Redes </strong> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
@@ -38,7 +30,7 @@
   <img src="https://img.shields.io/badge/Firewall-E53935?style=flat" />
 </p>
 
-<p align="center"> <strong> Suporte & Infraestrutura | Support & Infrastructure </strong> </p>
+<p align="center"> <strong> Suporte & Infraestrutura </strong> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
@@ -50,7 +42,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
-<p align="center"> <strong> Segurança | Security  </strong> </p>
+<p align="center"> <strong> Segurança</strong> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Malware_Analysis-B71C1C?style=flat" />
@@ -60,32 +52,29 @@
 
 ---
 
-<h2 align="center"> 📂 Portfólio & Projetos | Portfolio & Projects </h2>
+<h2 align="center"> 📂 Portfólio & Projetos </h2>
  <div align="center">
  
-  | Projeto / Project | Descrição / Description |
+  | Projeto | Descrição |
   | --- | --- |
-  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI. / A self-made documentation on progress regarding all related to IT. |
-  | 🌐 [Redes / Network Labs](https://github.com/edR-98/TI/tree/main/redes) | Projetos e documentações sobre redes / Projects and docs about networking. |
+  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI, incluíndo projetos ou labs pessoais sobre redes, infraestrutura ou segurança. |
   
  </div>
 
 ---
 
-<h2 align="center"> 📜 Certificações & Cursos / Certifications & Courses  </h2>
+<h2 align="center"> 📜 Certificações & Cursos </h2>
 
 <div align="center">
 
-| Certificação / Certification |
+| Certificação |
 | :---: |
-| 📚 IT Essentials - Cisco |
-| 💻 Técnico em Informática - Senac São Carlos (em andamento) |
-| 🌐 Cisco Packet Tracer — Cisco NetAcad |
+| 💻 Técnico em Informática - Senac São Carlos |
 
 
 </div>
 
-<h2 align="center">📫 Contato | Contact</h2>
+<h2 align="center">📫 Contato</h2>
 <p align="center">
   <a href="mailto:eduardo.mcd@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white" />
@@ -99,10 +88,15 @@
 </p>
 
 ---
-<h2 align="center"> 📖 Conteúdo Disponível | Available Content </p>
+<h2 align="center"> 📖 Conteúdo Disponível </h2>
+
+ <h3 align="center"> 
+    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md"> 🛠️ Troubleshooting - Minha Base de Conhecimento & Documentação; </a>
 
   <h3 align="center"> 
-    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md"> 🪛 Troubleshooting - Base de Conhecimento </a> <br>
-    <br>
-    <a href="https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md"> 🌐 Hotel Califórnia - Projeto de redes </a>
+    <a href="https://github.com/edR-98/TI/blob/main/troubleshooting/OSI-troubleshooting.md"> 🪛 Troubleshooting - Solução de Problemas com Raciocínio no Modelo OSI; </a>
+
+  <h3 align="center"> 
+    <a href="https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md"> 🌐 Redes - Projeto de Infraestrutura de Rede - Hotel Califórnia</a>
+
 
