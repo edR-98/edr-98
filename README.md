@@ -71,12 +71,15 @@ Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluçõ
 
     - #### [🌐 Dispositivos de Rede](https://github.com/edR-98/TI/blob/main/redes/Dispositivos-de-rede.md)
 
+---
+
 <div align="center">
 
 ## 📜 Certificações & Cursos
 
-- 💻 Técnico em Informática - Senac São Carlos;
-- Inglês como segunda língua (ESL), nível C2 [https://alphaidiomas.com.br/] 
+💻 Técnico em Informática - Senac São Carlos;
+
+ Inglês como segunda língua (ESL), nível C2 [https://alphaidiomas.com.br/] 
 
 ## 📫 Contato
 
