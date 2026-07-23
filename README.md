@@ -57,15 +57,19 @@ Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluçõ
 
 </div>
 
-- ### Troubleshooting
+- ### 📂 Troubleshooting
     - #### [🛠️ Troubleshooting - Minha Base de Conhecimento & Documentação](https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md)
 
     - #### [🪛 Troubleshooting - Solução de Problemas com Raciocínio no Modelo OSI](https://github.com/edR-98/TI/blob/main/troubleshooting/OSI-troubleshooting.md)
 
-- ### Redes
-    - #### [🌐 Redes - Projeto de Infraestrutura de Rede - Hotel Califórnia](https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md)
+- ### 📂 Redes
+    - #### [🌐 Projeto de Infraestrutura de Rede - Hotel Califórnia](https://github.com/edR-98/TI/blob/main/redes/hotel-california-project/hotel-california-project.md)
 
----
+    - #### [🌐 Modelo OSI](https://github.com/edR-98/TI/blob/main/redes/Modelo-OSI.md)
+
+    - #### [🔌 Interfaces & Cabos](https://github.com/edR-98/TI/blob/main/redes/Interfaces%26Cabos.md)
+
+    - #### [🌐 Dispositivos de Rede](https://github.com/edR-98/TI/blob/main/redes/Dispositivos-de-rede.md)
 
 <div align="center">
 
