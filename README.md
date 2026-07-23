@@ -57,7 +57,7 @@
  
   | Projeto | Descrição |
   | --- | --- |
-  | [🗂️ TI (em progresso) ](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI, incluíndo projetos ou labs pessoais sobre redes, infraestrutura ou segurança. |
+  | [🗂️ Meu repositório sobre TI – em progresso](https://github.com/edR-98/TI) | Uma documentação própria em progresso relacionado a tudo sobre TI, incluíndo projetos ou labs pessoais sobre redes, infraestrutura ou segurança. |
   
  </div>
 
