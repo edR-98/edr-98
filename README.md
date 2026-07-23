@@ -1,6 +1,8 @@
+<div align="center">
+
 # Olá, sou o Eduardo! 👋
 
-Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluções, ajudar outros e a manter sistemas funcionando. Possuo formação técnica em informática pelo Senac. Busco compreender, testar e praticar novos conhecimentos por conta própria com viés em suporte ou infraestrutura.
+Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluções, ajudar outros e a manter sistemas funcionando. Possuo formação técnica em informática pelo Senac. Além disso, busco compreender, testar e praticar novos conhecimentos por conta própria com viés em suporte ou infraestrutura com intuito de estabelecer e crescer dentro da área.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -52,6 +54,9 @@ Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluçõ
 ---
 
 ## 📖 Conteúdo Disponível
+
+</div>
+
 - ### Troubleshooting
     - #### [🛠️ Troubleshooting - Minha Base de Conhecimento & Documentação](https://github.com/edR-98/TI/blob/main/troubleshooting/troubleshooting.md)
 
@@ -62,6 +67,8 @@ Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluçõ
 
 ---
 
+<div align="center">
+
 ## 📜 Certificações & Cursos
 
 - 💻 Técnico em Informática - Senac São Carlos;
@@ -71,5 +78,7 @@ Apaixonado por tecnologia, por resolver problemas técnicos, documentar soluçõ
 
 ❗ Não utilizo redes sociais, contatos apenas pelo email a seguir:
 ✉️ *eduardo.mcd@proton.me*
+
+</div>
 
 ---
